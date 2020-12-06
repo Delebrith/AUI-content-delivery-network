@@ -23,22 +23,10 @@ public class DefaultExceptionHandler {
     @ExceptionHandler(ResourceNotFoundException.class)
     public ResponseEntity<?> handleResourceNotFound(final HttpServletRequest request, final ResourceNotFoundException e) {
         URI redirectUri = redirectConfig.getUriForResource(e.getId());
-//        return Optional.ofNullable(request.getHeader(VISITED_LOCATIONS_HEADER))
-//                .map(value -> value.split(";"))
-//                .map(array -> handleVisitedLocationsHeader(redirectUri, array))
-//                .orElse(this.handleNoVisitedLocationsHeader(redirectUri));
-
-        return ResponseEntity
-                .status(HttpStatus.PERMANENT_REDIRECT)
-                .header(HttpHeaders.LOCATION, redirectUri.toString())
-                .build();
-
-//        return Optional.ofNullable(redirectConfig.getUriForResource(e.getId()))
-//                .map(uri -> ResponseEntity
-//                        .status(HttpStatus.PERMANENT_REDIRECT)
-//                        .header(HttpHeaders.LOCATION, uri.toString())
-//                        .build())
-//                .orElse(ResponseEntity.notFound().build());
+        return Optional.ofNullable(request.getHeader(VISITED_LOCATIONS_HEADER))
+                .map(value -> value.split(";"))
+                .map(array -> handleVisitedLocationsHeader(redirectUri, array))
+                .orElse(this.handleNoVisitedLocationsHeader(redirectUri));
     }
 
     private ResponseEntity handleNoVisitedLocationsHeader(URI redirectUri) {
