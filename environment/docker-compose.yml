@@ -18,6 +18,7 @@ services:
             - SYS_ADMIN
         ports:
             - 8080:8080
+            - 58080:58080
 
     test1:
         build: 
@@ -36,6 +37,7 @@ services:
             - SYS_ADMIN
         ports:
             - 8081:8081
+            - 58081:58081
 
     test2:
         build: 
@@ -54,6 +56,7 @@ services:
             - SYS_ADMIN
         ports:
             - 8082:8082
+            - 58082:58082
 
     test3:
         build: 
@@ -72,6 +75,7 @@ services:
             - SYS_ADMIN
         ports:
             - 8083:8083
+            - 58083:58083
 
     test4:
         build: 
@@ -90,3 +94,4 @@ services:
             - SYS_ADMIN
         ports:
             - 8084:8084
+            - 58084:58084
