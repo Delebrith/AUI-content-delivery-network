@@ -38,8 +38,6 @@ RUN apt-get install -y openjdk-11-jre
 
 RUN mkdir /root/aui
 
-COPY ./aui-0.0.9-SNAPSHOT.jar /aui.jar 
-
 ARG CONFIG_FILE
 ARG PORT
 ARG BANDWIDTH
@@ -60,9 +58,13 @@ ENV NODE_NUM ${NODE_NUM}
 ENV KNOWN_NEIGHBOURS ${KNOWN_NEIGHBOURS}
 ENV BASE_REDIRECT_URL ${BASE_REDIRECT_URL}
 
-EXPOSE ${PORT}
+EXPOSE ${PORT} 5${PORT}
+
+COPY ./aui-0.0.25-Cookies.jar /aui.jar 
 
 COPY config.txt /root/aui/config.txt
+
+ENV JAVA_TOOL_OPTIONS -agentlib:jdwp=transport=dt_socket,address=*:5${PORT},server=y,suspend=n
 
 ENTRYPOINT java -jar aui.jar \
     --server.port=${PORT} \ 

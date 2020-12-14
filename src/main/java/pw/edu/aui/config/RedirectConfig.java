@@ -53,8 +53,9 @@ public class RedirectConfig {
     }
 
     private URI buildTargetUriIfNotFound(Integer resourceId) {
-        int maxNode = redirectConfigMap.lastKey();
-        return URI.create(baseAddressForRedirect + maxNode  + "/resource/" + resourceId);
+        int lastNodeInConfig = redirectConfigMap.lastKey();
+        log.info("Info not found in node {}. Redirect to node {}", nodeNumber, lastNodeInConfig);
+        return URI.create(baseAddressForRedirect + lastNodeInConfig  + "/resource/" + resourceId);
     }
 
     private static LinkedMap<Integer, List<ResourceDto>> initConfigMap(String resourceMapPath, Integer nodeNumber, Integer knownNeighbours, String baseAddressForRedirect) throws IOException {
@@ -64,15 +65,14 @@ public class RedirectConfig {
 
         List<Integer> linesNumbers = new ArrayList<>();
         int maxNodes = lines.size();
-        int nodesContained = knownNeighbours + 1;
         for (int i = nodeNumber + 1; i < lines.size(); i++) {
-            if (i < nodeNumber + nodesContained) {
+            if (i <= nodeNumber + knownNeighbours) {
                 linesNumbers.add(i);
             }
         }
-        if (nodeNumber + nodesContained >= lines.size()) {
-            for (int i = 0; i < nodeNumber; i++) {
-                if (i == (nodeNumber + nodesContained) % maxNodes) {
+        if (nodeNumber + knownNeighbours >= lines.size()) {
+            for (int i = 0; i <= nodeNumber; i++) {
+                if (i == (nodeNumber + knownNeighbours) % maxNodes) {
                     linesNumbers.add(i);
                 }
             }

@@ -1,6 +1,7 @@
 package pw.edu.aui.config;
 
 import lombok.RequiredArgsConstructor;
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -8,58 +9,44 @@ import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import pw.edu.aui.domain.ResourceNotFoundException;
 
+import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServletRequest;
 import java.net.URI;
 import java.util.Arrays;
-import java.util.List;
 import java.util.Optional;
 
 @ControllerAdvice
 @RequiredArgsConstructor
+@Slf4j
 public class DefaultExceptionHandler {
-    private static final String VISITED_LOCATIONS_HEADER = "x-locations-visited";
+    private static final String VISITED_LOCATIONS_COOKIE = "Location-Visited-";
     private final RedirectConfig redirectConfig;
 
     @ExceptionHandler(ResourceNotFoundException.class)
     public ResponseEntity<?> handleResourceNotFound(final HttpServletRequest request, final ResourceNotFoundException e) {
         URI redirectUri = redirectConfig.getUriForResource(e.getId());
-//        return Optional.ofNullable(request.getHeader(VISITED_LOCATIONS_HEADER))
-//                .map(value -> value.split(";"))
-//                .map(array -> handleVisitedLocationsHeader(redirectUri, array))
-//                .orElse(this.handleNoVisitedLocationsHeader(redirectUri));
+        String currentUri = request.getRequestURL().toString();
+        String cookieName = VISITED_LOCATIONS_COOKIE + currentUri.replace("/", "").replace(":", "");
+        return Arrays.stream(Optional.ofNullable(request.getCookies()).orElse(new Cookie[0]))
+                .filter(cookie -> cookieName.equals(cookie.getName()))
+                .findFirst()
+                .map(array -> handleVisitedLocationsHeader(cookieName))
+                .orElseGet(() -> this.handleNoVisitedLocationsHeader(redirectUri, cookieName));
+    }
 
+    private ResponseEntity handleNoVisitedLocationsHeader(URI redirectUri, String cookieName) {
+        log.info("No {} cookie", cookieName);
+        String setCookie = cookieName + "=\"" + true + "\"; Max-Age=30";
+        log.info("Setting {} cookie: {}", VISITED_LOCATIONS_COOKIE, setCookie);
         return ResponseEntity
                 .status(HttpStatus.PERMANENT_REDIRECT)
                 .header(HttpHeaders.LOCATION, redirectUri.toString())
-                .build();
-
-//        return Optional.ofNullable(redirectConfig.getUriForResource(e.getId()))
-//                .map(uri -> ResponseEntity
-//                        .status(HttpStatus.PERMANENT_REDIRECT)
-//                        .header(HttpHeaders.LOCATION, uri.toString())
-//                        .build())
-//                .orElse(ResponseEntity.notFound().build());
-    }
-
-    private ResponseEntity handleNoVisitedLocationsHeader(URI redirectUri) {
-        return ResponseEntity
-                .status(HttpStatus.PERMANENT_REDIRECT)
-                .header(HttpHeaders.LOCATION, redirectUri.toString())
-                .header(VISITED_LOCATIONS_HEADER, redirectUri.toString())
+                .header(HttpHeaders.SET_COOKIE, setCookie)
                 .build();
     }
 
-    private ResponseEntity handleVisitedLocationsHeader(URI redirectUri, String[] array) {
-        List<String> visitedURIs = Arrays.asList(array);
-        if (visitedURIs.contains(redirectUri.toString())) {
-            return ResponseEntity.notFound().build();
-        } else {
-            visitedURIs.add(redirectUri.toString());
-            return ResponseEntity
-                    .status(HttpStatus.PERMANENT_REDIRECT)
-                    .header(HttpHeaders.LOCATION, redirectUri.toString())
-                    .header(VISITED_LOCATIONS_HEADER, String.join(";", visitedURIs))
-                    .build();
-        }
+    private ResponseEntity handleVisitedLocationsHeader(String cookieName) {
+        log.info("Has {} cookie. Already was here", cookieName);
+        return ResponseEntity.notFound().build();
     }
 }
