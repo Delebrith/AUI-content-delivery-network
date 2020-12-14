@@ -10,7 +10,7 @@ services:
                 KNOWN_NEIGHBOURS: 2
                 BANDWIDTH: 10
                 BUFFER_SIZE: 100
-                DELAY: 100
+                DELAY: 500
                 LOSS: 5
                 BASE_REDIRECT_URL: http://localhost
         cap_add:
@@ -29,7 +29,7 @@ services:
                 KNOWN_NEIGHBOURS: 2
                 BANDWIDTH: 10
                 BUFFER_SIZE: 100
-                DELAY: 100
+                DELAY: 1000
                 LOSS: 5
                 BASE_REDIRECT_URL: http://localhost
         cap_add:
@@ -48,7 +48,7 @@ services:
                 KNOWN_NEIGHBOURS: 2
                 BANDWIDTH: 10
                 BUFFER_SIZE: 100
-                DELAY: 100
+                DELAY: 1000
                 LOSS: 5
                 BASE_REDIRECT_URL: http://localhost
         cap_add:
@@ -67,7 +67,7 @@ services:
                 KNOWN_NEIGHBOURS: 2
                 BANDWIDTH: 10
                 BUFFER_SIZE: 100
-                DELAY: 100
+                DELAY: 1000
                 LOSS: 5
                 BASE_REDIRECT_URL: http://localhost
         cap_add:
@@ -86,7 +86,7 @@ services:
                 KNOWN_NEIGHBOURS: 2
                 BANDWIDTH: 10
                 BUFFER_SIZE: 100
-                DELAY: 100
+                DELAY: 1000
                 LOSS: 5
                 BASE_REDIRECT_URL: http://localhost
         cap_add:
