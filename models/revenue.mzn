@@ -73,16 +73,12 @@ constraint
 output [
   "\nobj: ", show(obj), 
  
-] ++
+] ++ ["\n"] ++ 
 [
-  if j = 1 then "\n" else " " endif ++
-    show(x[i,j,k]) 
-  | i in I, j in J, k in K
+  show(x)
 ] ++ ["\n"]++
 [
-  if j = 1 then "\n" else " " endif ++
-    show(z[j,k]) 
-  | j in J, k in K
+  show(z)
 ] ++ ["\n"];
 
 
