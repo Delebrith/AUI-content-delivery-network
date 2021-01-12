@@ -16,14 +16,11 @@ set of int: J = 1..n;
 % set of resources 
 set of int: K = 1..o;
 
-% space consumed in allocating resource j to server i [kB]
+% space consumed in allocating resource k to server i [kB]
 array[K] of int: b; 
 
 % requests intensity [rps] of client i for resource k
 array[I, K] of int: d; 
-
-% profit from delivering resource k 
-array[K] of int: r; 
 
 % disk capacity of server j 
 array[J] of int: s;
@@ -41,11 +38,11 @@ array[J, K] of var 0..1: z;
 % objective
 %
     
-var int: obj = sum(i in I, j in J, k in K) (  (r[k] * d[i, j] * x[i, j, k]) - (b[k] * d[i, k] * c[i, j] * x[i, j, k]));
+var int: obj = sum(i in I, j in J, k in K) (b[k] * d[i, k] * c[i, j] * x[i, j, k]);
 solve :: int_search(
         [x[i,j,k] | i in I, j in J, k in K] ++ [z[j,k] | j in J, k in K] ++ [obj],
         first_fail, indomain_min, complete)
-     maximize obj;
+     minimize obj;
 
 %
 % constraints
@@ -72,8 +69,7 @@ constraint
 
 output [
   "\nobj: ", show(obj), 
- 
-] ++ ["\n"] ++ 
+] ++ ["\n"] ++
 [
   show(x)
 ] ++ ["\n"]++
@@ -82,6 +78,7 @@ output [
     show(z[j, k]) 
   | j in J, k in K
 ] ++ ["\n"];
+
 
  % m - number of clients
 m = 10;
@@ -125,5 +122,3 @@ c = array2d(I, J, [
   1, 1, 2, 2, 0, 
   1, 1, 2, 2, 0]
 );
-
-r = [1, 1, 2, 1, 2, 3, 5, 1, 2, 3, 1, 2, 6, 2, 3];
