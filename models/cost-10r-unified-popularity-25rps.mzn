@@ -16,14 +16,11 @@ set of int: J = 1..n;
 % set of resources 
 set of int: K = 1..o;
 
-% space consumed in allocating resource j to server i [kB]
+% space consumed in allocating resource k to server i [kB]
 array[K] of int: b; 
 
 % requests intensity [rps] of client i for resource k
 array[I, K] of int: d; 
-
-% profit from delivering resource k 
-array[K] of int: r; 
 
 % disk capacity of server j 
 array[J] of int: s;
@@ -41,15 +38,16 @@ array[J, K] of var 0..1: z;
 % objective
 %
     
-var int: obj = sum(i in I, j in J, k in K) ( (r[k] - b[k] * c[i, j]) * d[i, k] * x[i, j, k] );
+var int: obj = sum(i in I, j in J, k in K) (b[k] * d[i, k] * c[i, j] * x[i, j, k]);
 solve :: int_search(
         [x[i,j,k] | i in I, j in J, k in K] ++ [z[j,k] | j in J, k in K] ++ [obj],
         first_fail, indomain_min, complete)
-     maximize obj;
+     minimize obj;
 
 %
 % constraints
 %
+
 constraint
 
   obj >= 0
@@ -89,31 +87,27 @@ m = 10;
 n = 5;
 
  % o - number of resources 
-o = 15;
+o = 10;
 
  % size of resource K
-b = [2, 2, 2, 2, 2, 2, 2, 2, 3, 2, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2, 2, 2, 3, 2, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2, 2, 2, 3, 2, 3, 3, 3, 3, 3];
-
-
- % revenue from resource K
-r = [10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10];
+b = [2, 2, 2, 2, 2, 2, 2, 2, 3, 2];
 
  % d - request intensity per resource 
 d = array2d(I, K, [
-  1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
-  1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
-  1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
-  1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
-  1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
-  1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
-  1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
-  1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
-  1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
-  1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  3, 3, 3, 3, 3, 2, 2, 2, 2, 2,
+  3, 3, 3, 3, 3, 2, 2, 2, 2, 2,
+  3, 3, 3, 3, 3, 2, 2, 2, 2, 2,
+  3, 3, 3, 3, 3, 2, 2, 2, 2, 2,
+  3, 3, 3, 3, 3, 2, 2, 2, 2, 2,
+  3, 3, 3, 3, 3, 2, 2, 2, 2, 2,
+  3, 3, 3, 3, 3, 2, 2, 2, 2, 2,
+  3, 3, 3, 3, 3, 2, 2, 2, 2, 2,
+  3, 3, 3, 3, 3, 2, 2, 2, 2, 2,
+  3, 3, 3, 3, 3, 2, 2, 2, 2, 2]
 );
 
  % s - disk capacity 
-s = [10, 18, 5, 7, 10];
+s = [5, 3, 5, 7, 10];
 
  % c - costs of accessing server J by client I
 c = array2d(I, J, [
