@@ -107,7 +107,7 @@ d = array2d(I, K, [
 );
 
  % s - disk capacity 
-s = [5, 13, 15, 7, 10];
+s = [15, 13, 25, 17, 20];
 
  % c - costs of accessing server J by client I
 c = array2d(I, J, [
