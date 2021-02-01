@@ -2,6 +2,8 @@ plugins {
 	id 'org.springframework.boot' version '2.4.0'
 	id 'io.spring.dependency-management' version '1.0.10.RELEASE'
 	id 'java'
+	id "com.github.lkishalmi.gatling" version "3.3.4"
+
 }
 
 group = 'pw.edu'
