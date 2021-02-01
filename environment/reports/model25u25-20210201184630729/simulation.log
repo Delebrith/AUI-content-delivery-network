@@ -1,0 +1,1051 @@
+RUN	Model25U25	model25u25	1612205190729	 	3.3.1
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 17 with intensity 1	48	START	1612205191799	1612205191799
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 6 with intensity 1	34	START	1612205191784	1612205191784
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 17 with intensity 1	10	START	1612205191778	1612205191778
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 22 with intensity 1	42	START	1612205191786	1612205191786
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 7 with intensity 1	13	START	1612205191778	1612205191778
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 8 with intensity 1	22	START	1612205191781	1612205191781
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 15 with intensity 1	39	START	1612205191786	1612205191786
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 7 with intensity 1	43	START	1612205191787	1612205191787
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 0 with intensity 1	40	START	1612205191786	1612205191786
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 0 with intensity 1	30	START	1612205191783	1612205191783
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 19 with intensity 1	45	START	1612205191787	1612205191787
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 4 with intensity 1	51	START	1612205191818	1612205191818
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 20 with intensity 1	49	START	1612205191818	1612205191818
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 0 with intensity 1	53	START	1612205191818	1612205191818
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 6 with intensity 1	54	START	1612205191818	1612205191818
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 5 with intensity 1	55	START	1612205191819	1612205191819
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 2 with intensity 1	58	START	1612205191819	1612205191819
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 23 with intensity 1	57	START	1612205191819	1612205191819
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 23 with intensity 1	47	START	1612205191788	1612205191788
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 15 with intensity 1	59	START	1612205191819	1612205191819
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 6 with intensity 1	61	START	1612205191819	1612205191819
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 13 with intensity 1	6	START	1612205191777	1612205191777
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 18 with intensity 1	60	START	1612205191819	1612205191819
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 4 with intensity 1	36	START	1612205191785	1612205191785
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 12 with intensity 1	63	START	1612205191819	1612205191819
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 4 with intensity 1	65	START	1612205191819	1612205191819
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 11 with intensity 1	64	START	1612205191819	1612205191819
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 4 with intensity 1	66	START	1612205191819	1612205191819
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 10 with intensity 1	68	START	1612205191819	1612205191819
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 12 with intensity 1	50	START	1612205191818	1612205191818
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 13 with intensity 1	67	START	1612205191819	1612205191819
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 11 with intensity 1	69	START	1612205191819	1612205191819
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 13 with intensity 1	70	START	1612205191819	1612205191819
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 2 with intensity 1	71	START	1612205191819	1612205191819
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 6 with intensity 1	72	START	1612205191819	1612205191819
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 16 with intensity 1	73	START	1612205191819	1612205191819
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 11 with intensity 1	74	START	1612205191819	1612205191819
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 2 with intensity 1	76	START	1612205191820	1612205191820
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 21 with intensity 1	77	START	1612205191820	1612205191820
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 2 with intensity 1	75	START	1612205191820	1612205191820
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 6 with intensity 1	78	START	1612205191820	1612205191820
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 4 with intensity 1	79	START	1612205191820	1612205191820
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 2 with intensity 1	80	START	1612205191820	1612205191820
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 24 with intensity 1	82	START	1612205191820	1612205191820
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 1 with intensity 1	81	START	1612205191820	1612205191820
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 8 with intensity 1	83	START	1612205191820	1612205191820
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 5 with intensity 1	1	START	1612205191776	1612205191776
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 21 with intensity 1	85	START	1612205191820	1612205191820
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 3 with intensity 1	84	START	1612205191820	1612205191820
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 18 with intensity 1	87	START	1612205191820	1612205191820
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 9 with intensity 1	88	START	1612205191820	1612205191820
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 4 with intensity 1	5	START	1612205191777	1612205191777
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 17 with intensity 1	90	START	1612205191820	1612205191820
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 23 with intensity 1	86	START	1612205191820	1612205191820
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 14 with intensity 1	91	START	1612205191820	1612205191820
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 4 with intensity 1	92	START	1612205191820	1612205191820
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 6 with intensity 1	94	START	1612205191820	1612205191820
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 21 with intensity 1	96	START	1612205191820	1612205191820
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 13 with intensity 1	95	START	1612205191820	1612205191820
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 24 with intensity 1	89	START	1612205191820	1612205191820
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 19 with intensity 1	98	START	1612205191820	1612205191820
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 7 with intensity 1	97	START	1612205191820	1612205191820
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 7 with intensity 1	99	START	1612205191820	1612205191820
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 5 with intensity 1	101	START	1612205191820	1612205191820
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 21 with intensity 1	102	START	1612205191820	1612205191820
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 1 with intensity 1	103	START	1612205191820	1612205191820
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 24 with intensity 1	104	START	1612205191821	1612205191821
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 5 with intensity 1	105	START	1612205191821	1612205191821
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 24 with intensity 1	107	START	1612205191821	1612205191821
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 0 with intensity 1	110	START	1612205191821	1612205191821
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 24 with intensity 1	106	START	1612205191821	1612205191821
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 8 with intensity 1	93	START	1612205191820	1612205191820
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 24 with intensity 1	109	START	1612205191821	1612205191821
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 12 with intensity 1	108	START	1612205191821	1612205191821
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 14 with intensity 1	111	START	1612205191821	1612205191821
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 13 with intensity 1	112	START	1612205191821	1612205191821
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 22 with intensity 1	113	START	1612205191821	1612205191821
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 7 with intensity 1	114	START	1612205191821	1612205191821
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 20 with intensity 1	116	START	1612205191821	1612205191821
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 10 with intensity 1	115	START	1612205191821	1612205191821
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 9 with intensity 1	117	START	1612205191821	1612205191821
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 9 with intensity 1	118	START	1612205191821	1612205191821
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 11 with intensity 1	120	START	1612205191821	1612205191821
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 2 with intensity 1	119	START	1612205191821	1612205191821
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 10 with intensity 1	121	START	1612205191821	1612205191821
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 6 with intensity 1	122	START	1612205191821	1612205191821
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 6 with intensity 1	123	START	1612205191821	1612205191821
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 16 with intensity 1	125	START	1612205191821	1612205191821
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 19 with intensity 1	124	START	1612205191821	1612205191821
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 19 with intensity 1	126	START	1612205191821	1612205191821
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 0 with intensity 1	127	START	1612205191821	1612205191821
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 3 with intensity 1	128	START	1612205191822	1612205191822
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 1 with intensity 1	130	START	1612205191822	1612205191822
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 19 with intensity 1	132	START	1612205191822	1612205191822
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 18 with intensity 1	131	START	1612205191822	1612205191822
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 7 with intensity 1	134	START	1612205191822	1612205191822
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 20 with intensity 1	136	START	1612205191822	1612205191822
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 1 with intensity 1	137	START	1612205191822	1612205191822
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 13 with intensity 1	139	START	1612205191822	1612205191822
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 19 with intensity 1	138	START	1612205191822	1612205191822
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 24 with intensity 1	52	START	1612205191818	1612205191818
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 9 with intensity 1	140	START	1612205191822	1612205191822
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 3 with intensity 1	141	START	1612205191822	1612205191822
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 13 with intensity 1	142	START	1612205191822	1612205191822
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 20 with intensity 1	143	START	1612205191822	1612205191822
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 0 with intensity 1	144	START	1612205191822	1612205191822
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 0 with intensity 1	145	START	1612205191822	1612205191822
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 22 with intensity 1	147	START	1612205191822	1612205191822
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 17 with intensity 1	149	START	1612205191822	1612205191822
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 16 with intensity 1	150	START	1612205191822	1612205191822
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 16 with intensity 1	151	START	1612205191822	1612205191822
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 11 with intensity 1	152	START	1612205191823	1612205191823
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 16 with intensity 1	148	START	1612205191822	1612205191822
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 10 with intensity 1	153	START	1612205191823	1612205191823
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 1 with intensity 1	12	START	1612205191778	1612205191778
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 23 with intensity 1	154	START	1612205191823	1612205191823
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 20 with intensity 1	33	START	1612205191783	1612205191783
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 15 with intensity 1	155	START	1612205191823	1612205191823
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 10 with intensity 1	156	START	1612205191823	1612205191823
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 14 with intensity 1	158	START	1612205191823	1612205191823
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 21 with intensity 1	159	START	1612205191823	1612205191823
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 7 with intensity 1	157	START	1612205191823	1612205191823
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 23 with intensity 1	160	START	1612205191823	1612205191823
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 15 with intensity 1	162	START	1612205191823	1612205191823
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 11 with intensity 1	161	START	1612205191823	1612205191823
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 5 with intensity 1	163	START	1612205191823	1612205191823
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 18 with intensity 1	165	START	1612205191823	1612205191823
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 12 with intensity 1	164	START	1612205191823	1612205191823
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 8 with intensity 1	166	START	1612205191823	1612205191823
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 5 with intensity 1	167	START	1612205191823	1612205191823
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 0 with intensity 1	168	START	1612205191823	1612205191823
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 18 with intensity 1	170	START	1612205191823	1612205191823
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 22 with intensity 1	171	START	1612205191823	1612205191823
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 24 with intensity 1	172	START	1612205191823	1612205191823
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 14 with intensity 1	173	START	1612205191823	1612205191823
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 9 with intensity 1	174	START	1612205191823	1612205191823
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 12 with intensity 1	169	START	1612205191823	1612205191823
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 16 with intensity 1	175	START	1612205191823	1612205191823
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 23 with intensity 1	176	START	1612205191824	1612205191824
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 5 with intensity 1	177	START	1612205191824	1612205191824
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 8 with intensity 1	178	START	1612205191824	1612205191824
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 8 with intensity 1	179	START	1612205191824	1612205191824
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 16 with intensity 1	180	START	1612205191824	1612205191824
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 22 with intensity 1	182	START	1612205191824	1612205191824
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 6 with intensity 1	183	START	1612205191824	1612205191824
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 5 with intensity 1	185	START	1612205191824	1612205191824
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 7 with intensity 1	184	START	1612205191824	1612205191824
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 12 with intensity 1	181	START	1612205191824	1612205191824
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 4 with intensity 1	186	START	1612205191824	1612205191824
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 14 with intensity 1	187	START	1612205191824	1612205191824
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 17 with intensity 1	188	START	1612205191824	1612205191824
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 23 with intensity 1	189	START	1612205191824	1612205191824
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 19 with intensity 1	190	START	1612205191824	1612205191824
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 3 with intensity 1	191	START	1612205191824	1612205191824
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 15 with intensity 1	192	START	1612205191824	1612205191824
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 0 with intensity 1	194	START	1612205191824	1612205191824
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 8 with intensity 1	195	START	1612205191824	1612205191824
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 22 with intensity 1	196	START	1612205191824	1612205191824
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 11 with intensity 1	198	START	1612205191824	1612205191824
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 19 with intensity 1	197	START	1612205191824	1612205191824
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 14 with intensity 1	199	START	1612205191824	1612205191824
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 18 with intensity 1	129	START	1612205191822	1612205191822
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 3 with intensity 1	200	START	1612205191825	1612205191825
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 15 with intensity 1	202	START	1612205191825	1612205191825
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 1 with intensity 1	201	START	1612205191825	1612205191825
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 1 with intensity 1	204	START	1612205191825	1612205191825
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 3 with intensity 1	203	START	1612205191825	1612205191825
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 13 with intensity 1	205	START	1612205191825	1612205191825
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 17 with intensity 1	206	START	1612205191825	1612205191825
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 13 with intensity 1	207	START	1612205191825	1612205191825
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 2 with intensity 1	208	START	1612205191825	1612205191825
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 10 with intensity 1	209	START	1612205191825	1612205191825
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 17 with intensity 1	212	START	1612205191825	1612205191825
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 9 with intensity 1	210	START	1612205191825	1612205191825
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 8 with intensity 1	213	START	1612205191825	1612205191825
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 12 with intensity 1	214	START	1612205191825	1612205191825
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 3 with intensity 1	211	START	1612205191825	1612205191825
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 10 with intensity 1	215	START	1612205191825	1612205191825
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 15 with intensity 1	216	START	1612205191825	1612205191825
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 9 with intensity 1	217	START	1612205191825	1612205191825
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 21 with intensity 1	218	START	1612205191825	1612205191825
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 5 with intensity 1	219	START	1612205191825	1612205191825
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 16 with intensity 1	220	START	1612205191825	1612205191825
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 16 with intensity 1	221	START	1612205191825	1612205191825
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 21 with intensity 1	222	START	1612205191825	1612205191825
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 13 with intensity 1	224	START	1612205191825	1612205191825
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 20 with intensity 1	223	START	1612205191825	1612205191825
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 21 with intensity 1	225	START	1612205191825	1612205191825
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 11 with intensity 1	227	START	1612205191826	1612205191826
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 12 with intensity 1	226	START	1612205191826	1612205191826
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 19 with intensity 1	193	START	1612205191824	1612205191824
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 24 with intensity 1	228	START	1612205191826	1612205191826
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 9 with intensity 1	229	START	1612205191826	1612205191826
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 21 with intensity 1	230	START	1612205191826	1612205191826
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 10 with intensity 1	231	START	1612205191826	1612205191826
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 3 with intensity 1	232	START	1612205191826	1612205191826
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 15 with intensity 1	233	START	1612205191826	1612205191826
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 1 with intensity 1	234	START	1612205191826	1612205191826
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 8 with intensity 1	235	START	1612205191826	1612205191826
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 0 with intensity 1	237	START	1612205191826	1612205191826
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 1 with intensity 1	236	START	1612205191826	1612205191826
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 20 with intensity 1	238	START	1612205191826	1612205191826
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 9 with intensity 1	239	START	1612205191826	1612205191826
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 14 with intensity 1	240	START	1612205191826	1612205191826
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 16 with intensity 1	241	START	1612205191826	1612205191826
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 6 with intensity 1	242	START	1612205191826	1612205191826
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 21 with intensity 1	244	START	1612205191826	1612205191826
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 20 with intensity 1	243	START	1612205191826	1612205191826
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 18 with intensity 1	245	START	1612205191826	1612205191826
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 2 with intensity 1	249	START	1612205191826	1612205191826
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 7 with intensity 1	246	START	1612205191826	1612205191826
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 14 with intensity 1	248	START	1612205191826	1612205191826
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 19 with intensity 1	15	START	1612205191779	1612205191779
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 24 with intensity 1	3	START	1612205191777	1612205191777
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 22 with intensity 1	247	START	1612205191826	1612205191826
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 10 with intensity 1	41	START	1612205191786	1612205191786
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 10 with intensity 1	250	START	1612205191826	1612205191826
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 20 with intensity 1	2	START	1612205191776	1612205191776
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 4 with intensity 1	100	START	1612205191820	1612205191820
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 2 with intensity 1	8	START	1612205191777	1612205191777
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 12 with intensity 1	4	START	1612205191776	1612205191776
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 23 with intensity 1	32	START	1612205191783	1612205191783
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 5 with intensity 1	35	START	1612205191785	1612205191785
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 17 with intensity 1	14	START	1612205191779	1612205191779
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 14 with intensity 1	16	START	1612205191779	1612205191779
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 7 with intensity 1	56	START	1612205191819	1612205191819
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 22 with intensity 1	62	START	1612205191819	1612205191819
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 18 with intensity 1	44	START	1612205191787	1612205191787
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 8 with intensity 1	135	START	1612205191822	1612205191822
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 22 with intensity 1	133	START	1612205191822	1612205191822
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 3 with intensity 1	37	START	1612205191785	1612205191785
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 15 with intensity 1	146	START	1612205191822	1612205191822
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 4 with intensity 1	11	START	1612205191778	1612205191778
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 18 with intensity 1	23	START	1612205191781	1612205191781
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 2 with intensity 1	28	START	1612205191782	1612205191782
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 11 with intensity 1	29	START	1612205191782	1612205191782
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 20 with intensity 1	46	START	1612205191787	1612205191787
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 17 with intensity 1	24	START	1612205191782	1612205191782
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 9 with intensity 1	25	START	1612205191782	1612205191782
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 18 with intensity 1	31	START	1612205191783	1612205191783
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 3 with intensity 1	17	START	1612205191780	1612205191780
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 14 with intensity 1	18	START	1612205191781	1612205191781
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 15 with intensity 1	21	START	1612205191781	1612205191781
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 1 with intensity 1	38	START	1612205191785	1612205191785
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 12 with intensity 1	20	START	1612205191781	1612205191781
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 11 with intensity 1	19	START	1612205191781	1612205191781
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 22 with intensity 1	27	START	1612205191782	1612205191782
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 17 with intensity 1	9	START	1612205191778	1612205191778
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 23 with intensity 1	7	START	1612205191777	1612205191777
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 23 with intensity 1	26	START	1612205191782	1612205191782
+REQUEST	15		localhost:8083	1612205191816	1612205193576	OK	 
+REQUEST	96		localhost:8081	1612205191821	1612205193574	OK	 
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 19 with intensity 1	15	END	1612205191779	1612205193591
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 21 with intensity 1	96	END	1612205191820	1612205193591
+REQUEST	220		localhost:8083	1612205191826	1612205193964	OK	 
+REQUEST	69		localhost:8081	1612205191820	1612205193959	OK	 
+REQUEST	19		localhost:8083	1612205191816	1612205193953	OK	 
+REQUEST	145		localhost:8084	1612205191823	1612205193980	OK	 
+REQUEST	142		localhost:8083	1612205191822	1612205194078	OK	 
+REQUEST	191		localhost:8080	1612205191825	1612205194081	OK	 
+REQUEST	143		localhost:8083	1612205191822	1612205194427	OK	 
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 20 with intensity 1	143	END	1612205191822	1612205194429
+REQUEST	111		localhost:8081	1612205191821	1612205194441	OK	 
+REQUEST	185		localhost:8083	1612205191824	1612205194441	OK	 
+REQUEST	60		localhost:8083	1612205191819	1612205194459	OK	 
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 18 with intensity 1	60	END	1612205191819	1612205194459
+REQUEST	86		localhost:8081	1612205191820	1612205194468	OK	 
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 23 with intensity 1	86	END	1612205191820	1612205194469
+REQUEST	113		localhost:8084	1612205191821	1612205194486	OK	 
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 22 with intensity 1	113	END	1612205191821	1612205194487
+REQUEST	139		localhost:8080	1612205191822	1612205194504	OK	 
+REQUEST	184		localhost:8084	1612205191824	1612205194504	OK	 
+REQUEST	34		localhost:8081	1612205191816	1612205194630	OK	 
+REQUEST	64		localhost:8084	1612205191819	1612205194630	OK	 
+REQUEST	24		localhost:8080	1612205191818	1612205194630	OK	 
+REQUEST	11		localhost:8082	1612205191816	1612205194630	OK	 
+REQUEST	100		localhost:8084	1612205191821	1612205194630	OK	 
+REQUEST	128		localhost:8080	1612205191822	1612205194633	OK	 
+REQUEST	4		localhost:8081	1612205191816	1612205194633	OK	 
+REQUEST	192		localhost:8083	1612205191825	1612205194635	OK	 
+REQUEST	194		localhost:8082	1612205191825	1612205194654	OK	 
+REQUEST	213		localhost:8084	1612205191825	1612205194695	OK	 
+REQUEST	164		localhost:8084	1612205191823	1612205194695	OK	 
+REQUEST	215		localhost:8081	1612205191825	1612205194695	OK	 
+REQUEST	203		localhost:8081	1612205191825	1612205194695	OK	 
+REQUEST	43		localhost:8084	1612205191816	1612205194696	OK	 
+REQUEST	181		localhost:8081	1612205191824	1612205194697	OK	 
+REQUEST	205		localhost:8081	1612205191825	1612205194701	OK	 
+REQUEST	53		localhost:8080	1612205191819	1612205194701	OK	 
+REQUEST	5		localhost:8080	1612205191816	1612205194702	OK	 
+REQUEST	65		localhost:8083	1612205191819	1612205194702	OK	 
+REQUEST	20		localhost:8082	1612205191817	1612205194703	OK	 
+REQUEST	119		localhost:8083	1612205191822	1612205194703	OK	 
+REQUEST	13		localhost:8081	1612205191816	1612205194703	OK	 
+REQUEST	21		localhost:8081	1612205191817	1612205194703	OK	 
+REQUEST	217		localhost:8082	1612205191825	1612205194703	OK	 
+REQUEST	1		localhost:8082	1612205191816	1612205194704	OK	 
+REQUEST	36		localhost:8081	1612205191816	1612205194707	OK	 
+REQUEST	149		localhost:8083	1612205191823	1612205194707	OK	 
+REQUEST	130		localhost:8081	1612205191822	1612205194711	OK	 
+REQUEST	224		localhost:8082	1612205191826	1612205194711	OK	 
+REQUEST	226		localhost:8080	1612205191826	1612205194759	OK	 
+REQUEST	79		localhost:8084	1612205191820	1612205194759	OK	 
+REQUEST	84		localhost:8081	1612205191820	1612205194759	OK	 
+REQUEST	35		localhost:8081	1612205191816	1612205194759	OK	 
+REQUEST	162		localhost:8080	1612205191823	1612205194761	OK	 
+REQUEST	183		localhost:8083	1612205191824	1612205194761	OK	 
+REQUEST	239		localhost:8084	1612205191826	1612205194762	OK	 
+REQUEST	173		localhost:8082	1612205191824	1612205194767	OK	 
+REQUEST	55		localhost:8080	1612205191819	1612205194767	OK	 
+REQUEST	37		localhost:8083	1612205191816	1612205194767	OK	 
+REQUEST	207		localhost:8081	1612205191825	1612205194767	OK	 
+REQUEST	68		localhost:8083	1612205191819	1612205194767	OK	 
+REQUEST	121		localhost:8081	1612205191822	1612205194767	OK	 
+REQUEST	88		localhost:8084	1612205191820	1612205194767	OK	 
+REQUEST	235		localhost:8084	1612205191826	1612205194767	OK	 
+REQUEST	229		localhost:8083	1612205191826	1612205194768	OK	 
+REQUEST	175		localhost:8084	1612205191824	1612205194768	OK	 
+REQUEST	54		localhost:8081	1612205191819	1612205194769	OK	 
+REQUEST	249		localhost:8084	1612205191827	1612205194772	OK	 
+REQUEST	152		localhost:8082	1612205191823	1612205194772	OK	 
+REQUEST	237		localhost:8081	1612205191826	1612205194773	OK	 
+REQUEST	56		localhost:8083	1612205191819	1612205194772	OK	 
+REQUEST	150		localhost:8081	1612205191823	1612205194773	OK	 
+REQUEST	120		localhost:8080	1612205191822	1612205194774	OK	 
+REQUEST	214		localhost:8083	1612205191825	1612205194826	OK	 
+REQUEST	16		localhost:8083	1612205191816	1612205194887	OK	 
+REQUEST	246		localhost:8080	1612205191827	1612205194888	OK	 
+REQUEST	118		localhost:8080	1612205191822	1612205194954	OK	 
+REQUEST	156		localhost:8080	1612205191823	1612205194957	OK	 
+REQUEST	25		localhost:8081	1612205191817	1612205194964	OK	 
+REQUEST	176		localhost:8082	1612205191824	1612205195092	OK	 
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 23 with intensity 1	176	END	1612205191824	1612205195092
+REQUEST	191		localhost:8080 Redirect 1	1612205194081	1612205195109	OK	 
+REQUEST	19		localhost:8083 Redirect 1	1612205193970	1612205195109	OK	 
+REQUEST	160		localhost:8084	1612205191823	1612205195132	OK	 
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 23 with intensity 1	160	END	1612205191823	1612205195133
+REQUEST	142		localhost:8083 Redirect 1	1612205194079	1612205195169	OK	 
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 13 with intensity 1	142	END	1612205191822	1612205195170
+REQUEST	220		localhost:8083 Redirect 1	1612205193970	1612205195172	OK	 
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 16 with intensity 1	220	END	1612205191825	1612205195172
+REQUEST	85		localhost:8080	1612205191820	1612205195195	OK	 
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 21 with intensity 1	85	END	1612205191820	1612205195195
+REQUEST	165		localhost:8080	1612205191823	1612205195196	OK	 
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 18 with intensity 1	165	END	1612205191823	1612205195197
+REQUEST	45		localhost:8082	1612205191816	1612205195198	OK	 
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 19 with intensity 1	45	END	1612205191787	1612205195199
+REQUEST	77		localhost:8081	1612205191820	1612205195200	OK	 
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 21 with intensity 1	77	END	1612205191820	1612205195201
+REQUEST	57		localhost:8080	1612205191819	1612205195202	OK	 
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 23 with intensity 1	57	END	1612205191819	1612205195203
+REQUEST	245		localhost:8083	1612205191827	1612205195205	OK	 
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 18 with intensity 1	245	END	1612205191826	1612205195206
+REQUEST	101		localhost:8080	1612205191821	1612205195207	OK	 
+REQUEST	230		localhost:8082	1612205191826	1612205195209	OK	 
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 21 with intensity 1	230	END	1612205191826	1612205195209
+REQUEST	42		localhost:8080	1612205191816	1612205195212	OK	 
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 22 with intensity 1	42	END	1612205191786	1612205195213
+REQUEST	247		localhost:8082	1612205191827	1612205195214	OK	 
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 22 with intensity 1	247	END	1612205191826	1612205195214
+REQUEST	3		localhost:8083	1612205191816	1612205195215	OK	 
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 24 with intensity 1	3	END	1612205191777	1612205195215
+REQUEST	197		localhost:8081	1612205191825	1612205195217	OK	 
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 19 with intensity 1	197	END	1612205191824	1612205195217
+REQUEST	193		localhost:8084	1612205191826	1612205195257	OK	 
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 19 with intensity 1	193	END	1612205191824	1612205195258
+REQUEST	171		localhost:8081	1612205191824	1612205195259	OK	 
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 22 with intensity 1	171	END	1612205191823	1612205195259
+REQUEST	225		localhost:8084	1612205191826	1612205195261	OK	 
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 21 with intensity 1	225	END	1612205191825	1612205195261
+REQUEST	132		localhost:8080	1612205191822	1612205195264	OK	 
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 19 with intensity 1	132	END	1612205191822	1612205195264
+REQUEST	228		localhost:8084	1612205191826	1612205195265	OK	 
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 24 with intensity 1	228	END	1612205191826	1612205195265
+REQUEST	196		localhost:8081	1612205191825	1612205195267	OK	 
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 22 with intensity 1	196	END	1612205191824	1612205195267
+REQUEST	133		localhost:8083	1612205191829	1612205195268	OK	 
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 22 with intensity 1	133	END	1612205191822	1612205195269
+REQUEST	129		localhost:8081	1612205191825	1612205195270	OK	 
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 18 with intensity 1	129	END	1612205191822	1612205195270
+REQUEST	78		localhost:8084	1612205191820	1612205195333	OK	 
+REQUEST	49		localhost:8082	1612205191819	1612205195387	OK	 
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 20 with intensity 1	49	END	1612205191818	1612205195387
+REQUEST	242		localhost:8084	1612205191826	1612205195397	OK	 
+REQUEST	8		localhost:8081	1612205191817	1612205195397	OK	 
+REQUEST	185		localhost:8083 Redirect 1	1612205194442	1612205195467	OK	 
+REQUEST	62		localhost:8084	1612205191828	1612205195520	OK	 
+REQUEST	184		localhost:8084 Redirect 1	1612205194504	1612205195520	OK	 
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 22 with intensity 1	62	END	1612205191819	1612205195520
+REQUEST	22		localhost:8081	1612205191816	1612205195524	OK	 
+REQUEST	141		localhost:8081	1612205191822	1612205195524	OK	 
+REQUEST	209		localhost:8084	1612205191825	1612205195524	OK	 
+REQUEST	177		localhost:8084	1612205191824	1612205195525	OK	 
+REQUEST	17		localhost:8084	1612205191817	1612205195526	OK	 
+REQUEST	188		localhost:8081	1612205191824	1612205195529	OK	 
+REQUEST	161		localhost:8083	1612205191823	1612205195529	OK	 
+REQUEST	144		localhost:8084	1612205191823	1612205195529	OK	 
+REQUEST	92		localhost:8080	1612205191820	1612205195530	OK	 
+REQUEST	110		localhost:8083	1612205191821	1612205195589	OK	 
+REQUEST	24		localhost:8080 Redirect 1	1612205194633	1612205195644	OK	 
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 17 with intensity 1	24	END	1612205191782	1612205195644
+REQUEST	100		localhost:8084 Redirect 1	1612205194633	1612205195649	OK	 
+REQUEST	4		localhost:8081 Redirect 1	1612205194634	1612205195651	OK	 
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 12 with intensity 1	4	END	1612205191776	1612205195651
+REQUEST	11		localhost:8082 Redirect 1	1612205194633	1612205195655	OK	 
+REQUEST	34		localhost:8081 Redirect 1	1612205194631	1612205195658	OK	 
+REQUEST	64		localhost:8084 Redirect 1	1612205194631	1612205195660	OK	 
+REQUEST	194		localhost:8082 Redirect 1	1612205194655	1612205195665	OK	 
+REQUEST	47		localhost:8081	1612205191817	1612205195678	OK	 
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 23 with intensity 1	47	END	1612205191788	1612205195679
+REQUEST	109		localhost:8081	1612205191821	1612205195686	OK	 
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 24 with intensity 1	109	END	1612205191821	1612205195686
+REQUEST	10		localhost:8081	1612205191816	1612205195716	OK	 
+REQUEST	186		localhost:8081	1612205191824	1612205195716	OK	 
+REQUEST	187		localhost:8083	1612205191824	1612205195716	OK	 
+REQUEST	14		localhost:8082	1612205191817	1612205195716	OK	 
+REQUEST	236		localhost:8082	1612205191826	1612205195716	OK	 
+REQUEST	146		localhost:8081	1612205191829	1612205195716	OK	 
+REQUEST	168		localhost:8083	1612205191824	1612205195716	OK	 
+REQUEST	167		localhost:8083	1612205191824	1612205195717	OK	 
+REQUEST	38		localhost:8083	1612205191817	1612205195717	OK	 
+REQUEST	250		localhost:8083	1612205191827	1612205195717	OK	 
+REQUEST	204		localhost:8080	1612205191825	1612205195717	OK	 
+REQUEST	74		localhost:8080	1612205191820	1612205195719	OK	 
+REQUEST	70		localhost:8081	1612205191820	1612205195719	OK	 
+REQUEST	40		localhost:8081	1612205191816	1612205195719	OK	 
+REQUEST	87		localhost:8080	1612205191820	1612205195721	OK	 
+REQUEST	103		localhost:8084	1612205191821	1612205195721	OK	 
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 18 with intensity 1	87	END	1612205191820	1612205195721
+REQUEST	199		localhost:8084	1612205191825	1612205195721	OK	 
+REQUEST	20		localhost:8082 Redirect 1	1612205194703	1612205195724	OK	 
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 12 with intensity 1	20	END	1612205191781	1612205195725
+REQUEST	23		localhost:8082	1612205191816	1612205195725	OK	 
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 18 with intensity 1	23	END	1612205191781	1612205195726
+REQUEST	164		localhost:8084 Redirect 1	1612205194696	1612205195731	OK	 
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 12 with intensity 1	164	END	1612205191823	1612205195731
+REQUEST	215		localhost:8081 Redirect 1	1612205194696	1612205195733	OK	 
+REQUEST	224		localhost:8082 Redirect 1	1612205194712	1612205195738	OK	 
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 13 with intensity 1	224	END	1612205191825	1612205195738
+REQUEST	192		localhost:8083 Redirect 1	1612205194635	1612205195744	OK	 
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 15 with intensity 1	192	END	1612205191824	1612205195745
+REQUEST	181		localhost:8081 Redirect 1	1612205194697	1612205195749	OK	 
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 12 with intensity 1	181	END	1612205191824	1612205195750
+REQUEST	149		localhost:8083 Redirect 1	1612205194708	1612205195755	OK	 
+REQUEST	205		localhost:8081 Redirect 1	1612205194702	1612205195755	OK	 
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 13 with intensity 1	205	END	1612205191825	1612205195755
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 17 with intensity 1	149	END	1612205191822	1612205195755
+REQUEST	1		localhost:8082 Redirect 1	1612205194704	1612205195756	OK	 
+REQUEST	43		localhost:8084 Redirect 1	1612205194697	1612205195760	OK	 
+REQUEST	119		localhost:8083 Redirect 1	1612205194703	1612205195773	OK	 
+REQUEST	173		localhost:8082 Redirect 1	1612205194767	1612205195780	OK	 
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 14 with intensity 1	173	END	1612205191823	1612205195781
+REQUEST	13		localhost:8081 Redirect 1	1612205194703	1612205195795	OK	 
+REQUEST	226		localhost:8080 Redirect 1	1612205194759	1612205195797	OK	 
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 12 with intensity 1	226	END	1612205191826	1612205195797
+REQUEST	235		localhost:8084 Redirect 1	1612205194768	1612205195797	OK	 
+REQUEST	175		localhost:8084 Redirect 1	1612205194768	1612205195799	OK	 
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 16 with intensity 1	175	END	1612205191823	1612205195800
+REQUEST	53		localhost:8080 Redirect 1	1612205194702	1612205195801	OK	 
+REQUEST	5		localhost:8080 Redirect 1	1612205194702	1612205195803	OK	 
+REQUEST	88		localhost:8084 Redirect 1	1612205194767	1612205195807	OK	 
+REQUEST	229		localhost:8083 Redirect 1	1612205194768	1612205195818	OK	 
+REQUEST	249		localhost:8084 Redirect 1	1612205194772	1612205195829	OK	 
+REQUEST	183		localhost:8083 Redirect 1	1612205194762	1612205195843	OK	 
+REQUEST	65		localhost:8083 Redirect 1	1612205194703	1612205195863	OK	 
+REQUEST	21		localhost:8081 Redirect 1	1612205194704	1612205195866	OK	 
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 15 with intensity 1	21	END	1612205191781	1612205195867
+REQUEST	203		localhost:8081 Redirect 1	1612205194696	1612205195871	OK	 
+REQUEST	37		localhost:8083 Redirect 1	1612205194767	1612205195881	OK	 
+REQUEST	35		localhost:8081 Redirect 1	1612205194759	1612205195881	OK	 
+REQUEST	162		localhost:8080 Redirect 1	1612205194762	1612205195883	OK	 
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 15 with intensity 1	162	END	1612205191823	1612205195884
+REQUEST	217		localhost:8082 Redirect 1	1612205194704	1612205195886	OK	 
+REQUEST	182		localhost:8083	1612205191824	1612205195888	OK	 
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 22 with intensity 1	182	END	1612205191824	1612205195888
+REQUEST	68		localhost:8083 Redirect 1	1612205194767	1612205195891	OK	 
+REQUEST	98		localhost:8081	1612205191821	1612205195891	OK	 
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 19 with intensity 1	98	END	1612205191820	1612205195892
+REQUEST	120		localhost:8080 Redirect 1	1612205194774	1612205195893	OK	 
+REQUEST	213		localhost:8084 Redirect 1	1612205194696	1612205195897	OK	 
+REQUEST	16		localhost:8083 Redirect 1	1612205194888	1612205195901	OK	 
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 14 with intensity 1	16	END	1612205191779	1612205195902
+REQUEST	56		localhost:8083 Redirect 1	1612205194773	1612205195902	OK	 
+REQUEST	239		localhost:8084 Redirect 1	1612205194763	1612205195903	OK	 
+REQUEST	121		localhost:8081 Redirect 1	1612205194767	1612205195905	OK	 
+REQUEST	152		localhost:8082 Redirect 1	1612205194772	1612205195907	OK	 
+REQUEST	246		localhost:8080 Redirect 1	1612205194888	1612205195907	OK	 
+REQUEST	118		localhost:8080 Redirect 1	1612205194954	1612205195965	OK	 
+REQUEST	156		localhost:8080 Redirect 1	1612205194957	1612205195966	OK	 
+REQUEST	25		localhost:8081 Redirect 1	1612205194964	1612205195977	OK	 
+REQUEST	124		localhost:8081	1612205191822	1612205196025	OK	 
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 19 with intensity 1	124	END	1612205191821	1612205196025
+REQUEST	222		localhost:8084	1612205191826	1612205196026	OK	 
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 21 with intensity 1	222	END	1612205191825	1612205196026
+REQUEST	52		localhost:8084	1612205191822	1612205196041	OK	 
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 24 with intensity 1	52	END	1612205191818	1612205196042
+REQUEST	69		localhost:8081 Redirect 1	1612205193970	1612205196052	OK	 
+REQUEST	145		localhost:8084 Redirect 1	1612205193981	1612205196054	OK	 
+REQUEST	148		localhost:8082	1612205191823	1612205196057	OK	 
+REQUEST	115		localhost:8082	1612205191821	1612205196068	OK	 
+REQUEST	147		localhost:8080	1612205191823	1612205196071	OK	 
+REQUEST	195		localhost:8082	1612205191825	1612205196071	OK	 
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 22 with intensity 1	147	END	1612205191822	1612205196071
+REQUEST	114		localhost:8081	1612205191821	1612205196075	OK	 
+REQUEST	99		localhost:8082	1612205191821	1612205196077	OK	 
+REQUEST	51		localhost:8083	1612205191819	1612205196078	OK	 
+REQUEST	155		localhost:8083	1612205191823	1612205196078	OK	 
+REQUEST	83		localhost:8080	1612205191820	1612205196079	OK	 
+REQUEST	211		localhost:8082	1612205191825	1612205196079	OK	 
+REQUEST	180		localhost:8080	1612205191824	1612205196080	OK	 
+REQUEST	111		localhost:8081 Redirect 1	1612205194442	1612205196083	OK	 
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 14 with intensity 1	111	END	1612205191821	1612205196084
+REQUEST	48		localhost:8084	1612205191816	1612205196092	OK	 
+REQUEST	93		localhost:8081	1612205191821	1612205196095	OK	 
+REQUEST	190		localhost:8083	1612205191824	1612205196142	OK	 
+REQUEST	31		localhost:8084	1612205191817	1612205196142	OK	 
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 19 with intensity 1	190	END	1612205191824	1612205196142
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 18 with intensity 1	31	END	1612205191783	1612205196143
+REQUEST	19		localhost:8083 Redirect 2	1612205195110	1612205196206	OK	 
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 11 with intensity 1	19	END	1612205191781	1612205196207
+REQUEST	66		localhost:8081	1612205191819	1612205196228	OK	 
+REQUEST	151		localhost:8083	1612205191823	1612205196228	OK	 
+REQUEST	75		localhost:8080	1612205191820	1612205196228	OK	 
+REQUEST	191		localhost:8080 Redirect 2	1612205195110	1612205196284	OK	 
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 3 with intensity 1	191	END	1612205191824	1612205196285
+REQUEST	117		localhost:8081	1612205191821	1612205196292	OK	 
+REQUEST	97		localhost:8083	1612205191821	1612205196292	OK	 
+REQUEST	248		localhost:8080	1612205191827	1612205196292	OK	 
+REQUEST	78		localhost:8084 Redirect 1	1612205195333	1612205196342	OK	 
+REQUEST	8		localhost:8081 Redirect 1	1612205195397	1612205196414	OK	 
+REQUEST	242		localhost:8084 Redirect 1	1612205195397	1612205196416	OK	 
+REQUEST	185		localhost:8083 Redirect 2	1612205195467	1612205196475	OK	 
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 5 with intensity 1	185	END	1612205191824	1612205196476
+REQUEST	188		localhost:8081 Redirect 1	1612205195530	1612205196541	OK	 
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 17 with intensity 1	188	END	1612205191824	1612205196541
+REQUEST	141		localhost:8081 Redirect 1	1612205195525	1612205196566	OK	 
+REQUEST	184		localhost:8084 Redirect 2	1612205195520	1612205196568	OK	 
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 7 with intensity 1	184	END	1612205191824	1612205196568
+REQUEST	161		localhost:8083 Redirect 1	1612205195530	1612205196573	OK	 
+REQUEST	209		localhost:8084 Redirect 1	1612205195525	1612205196583	OK	 
+REQUEST	177		localhost:8084 Redirect 1	1612205195526	1612205196584	OK	 
+REQUEST	92		localhost:8080 Redirect 1	1612205195530	1612205196589	OK	 
+REQUEST	238		localhost:8081	1612205191826	1612205196591	OK	 
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 20 with intensity 1	238	END	1612205191826	1612205196591
+REQUEST	223		localhost:8080	1612205191826	1612205196593	OK	 
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 20 with intensity 1	223	END	1612205191825	1612205196594
+REQUEST	159		localhost:8080	1612205191823	1612205196596	OK	 
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 21 with intensity 1	159	END	1612205191823	1612205196596
+REQUEST	102		localhost:8081	1612205191821	1612205196598	OK	 
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 21 with intensity 1	102	END	1612205191820	1612205196598
+REQUEST	208		localhost:8084	1612205191825	1612205196599	OK	 
+REQUEST	110		localhost:8083 Redirect 1	1612205195590	1612205196599	OK	 
+REQUEST	81		localhost:8080	1612205191820	1612205196599	OK	 
+REQUEST	95		localhost:8084	1612205191821	1612205196612	OK	 
+REQUEST	139		localhost:8080 Redirect 1	1612205194504	1612205196647	OK	 
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 13 with intensity 1	139	END	1612205191822	1612205196647
+REQUEST	136		localhost:8081	1612205191822	1612205196651	OK	 
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 20 with intensity 1	136	END	1612205191822	1612205196651
+REQUEST	174		localhost:8081	1612205191824	1612205196659	OK	 
+REQUEST	6		localhost:8080	1612205191818	1612205196659	OK	 
+REQUEST	63		localhost:8081	1612205191819	1612205196659	OK	 
+REQUEST	227		localhost:8084	1612205191826	1612205196659	OK	 
+REQUEST	231		localhost:8084	1612205191826	1612205196659	OK	 
+REQUEST	200		localhost:8083	1612205191825	1612205196659	OK	 
+REQUEST	9		localhost:8083	1612205191816	1612205196659	OK	 
+REQUEST	127		localhost:8080	1612205191822	1612205196660	OK	 
+REQUEST	166		localhost:8081	1612205191824	1612205196660	OK	 
+REQUEST	41		localhost:8080	1612205191817	1612205196660	OK	 
+REQUEST	232		localhost:8084	1612205191826	1612205196660	OK	 
+REQUEST	206		localhost:8081	1612205191825	1612205196660	OK	 
+REQUEST	112		localhost:8083	1612205191821	1612205196660	OK	 
+REQUEST	233		localhost:8084	1612205191826	1612205196663	OK	 
+REQUEST	178		localhost:8083	1612205191824	1612205196663	OK	 
+REQUEST	72		localhost:8080	1612205191820	1612205196664	OK	 
+REQUEST	135		localhost:8083	1612205191822	1612205196664	OK	 
+REQUEST	169		localhost:8084	1612205191824	1612205196666	OK	 
+REQUEST	30		localhost:8081	1612205191817	1612205196667	OK	 
+REQUEST	234		localhost:8084	1612205191826	1612205196668	OK	 
+REQUEST	158		localhost:8084	1612205191823	1612205196668	OK	 
+REQUEST	64		localhost:8084 Redirect 2	1612205195660	1612205196670	OK	 
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 11 with intensity 1	64	END	1612205191819	1612205196670
+REQUEST	128		localhost:8080 Redirect 1	1612205194634	1612205196675	OK	 
+REQUEST	34		localhost:8081 Redirect 2	1612205195659	1612205196698	OK	 
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 6 with intensity 1	34	END	1612205191784	1612205196698
+REQUEST	11		localhost:8082 Redirect 2	1612205195655	1612205196700	OK	 
+REQUEST	194		localhost:8082 Redirect 2	1612205195665	1612205196700	OK	 
+REQUEST	100		localhost:8084 Redirect 2	1612205195650	1612205196700	OK	 
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 0 with intensity 1	194	END	1612205191824	1612205196700
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 4 with intensity 1	100	END	1612205191820	1612205196700
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 4 with intensity 1	11	END	1612205191778	1612205196700
+REQUEST	14		localhost:8082 Redirect 1	1612205195717	1612205196735	OK	 
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 17 with intensity 1	14	END	1612205191779	1612205196736
+REQUEST	215		localhost:8081 Redirect 2	1612205195733	1612205196741	OK	 
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 10 with intensity 1	215	END	1612205191825	1612205196741
+REQUEST	10		localhost:8081 Redirect 1	1612205195717	1612205196748	OK	 
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 17 with intensity 1	10	END	1612205191778	1612205196749
+REQUEST	187		localhost:8083 Redirect 1	1612205195717	1612205196751	OK	 
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 14 with intensity 1	187	END	1612205191824	1612205196751
+REQUEST	130		localhost:8081 Redirect 1	1612205194712	1612205196756	OK	 
+REQUEST	199		localhost:8084 Redirect 1	1612205195722	1612205196762	OK	 
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 14 with intensity 1	199	END	1612205191824	1612205196762
+REQUEST	146		localhost:8081 Redirect 1	1612205195717	1612205196771	OK	 
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 15 with intensity 1	146	END	1612205191822	1612205196772
+REQUEST	70		localhost:8081 Redirect 1	1612205195719	1612205196777	OK	 
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 13 with intensity 1	70	END	1612205191819	1612205196777
+REQUEST	204		localhost:8080 Redirect 1	1612205195718	1612205196783	OK	 
+REQUEST	236		localhost:8082 Redirect 1	1612205195717	1612205196797	OK	 
+REQUEST	168		localhost:8083 Redirect 1	1612205195717	1612205196797	OK	 
+REQUEST	74		localhost:8080 Redirect 1	1612205195719	1612205196798	OK	 
+REQUEST	1		localhost:8082 Redirect 2	1612205195756	1612205196806	OK	 
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 5 with intensity 1	1	END	1612205191776	1612205196806
+REQUEST	53		localhost:8080 Redirect 2	1612205195801	1612205196818	OK	 
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 0 with intensity 1	53	END	1612205191818	1612205196818
+REQUEST	5		localhost:8080 Redirect 2	1612205195803	1612205196818	OK	 
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 4 with intensity 1	5	END	1612205191777	1612205196818
+REQUEST	43		localhost:8084 Redirect 2	1612205195760	1612205196819	OK	 
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 7 with intensity 1	43	END	1612205191787	1612205196820
+REQUEST	229		localhost:8083 Redirect 2	1612205195818	1612205196827	OK	 
+REQUEST	186		localhost:8081 Redirect 1	1612205195717	1612205196826	OK	 
+REQUEST	36		localhost:8081 Redirect 1	1612205194708	1612205196827	OK	 
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 9 with intensity 1	229	END	1612205191826	1612205196827
+REQUEST	103		localhost:8084 Redirect 1	1612205195721	1612205196828	OK	 
+REQUEST	119		localhost:8083 Redirect 2	1612205195774	1612205196833	OK	 
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 2 with intensity 1	119	END	1612205191821	1612205196834
+REQUEST	235		localhost:8084 Redirect 2	1612205195798	1612205196834	OK	 
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 8 with intensity 1	235	END	1612205191826	1612205196834
+REQUEST	167		localhost:8083 Redirect 1	1612205195717	1612205196838	OK	 
+REQUEST	250		localhost:8083 Redirect 1	1612205195718	1612205196839	OK	 
+REQUEST	54		localhost:8081 Redirect 1	1612205194769	1612205196848	OK	 
+REQUEST	84		localhost:8081 Redirect 1	1612205194759	1612205196848	OK	 
+REQUEST	172		localhost:8081	1612205191824	1612205196850	OK	 
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 24 with intensity 1	172	END	1612205191823	1612205196851
+REQUEST	79		localhost:8084 Redirect 1	1612205194759	1612205196851	OK	 
+REQUEST	13		localhost:8081 Redirect 2	1612205195795	1612205196853	OK	 
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 7 with intensity 1	13	END	1612205191778	1612205196853
+REQUEST	183		localhost:8083 Redirect 2	1612205195844	1612205196861	OK	 
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 6 with intensity 1	183	END	1612205191824	1612205196862
+REQUEST	37		localhost:8083 Redirect 2	1612205195881	1612205196902	OK	 
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 3 with intensity 1	37	END	1612205191785	1612205196902
+REQUEST	150		localhost:8081 Redirect 1	1612205194773	1612205196911	OK	 
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 16 with intensity 1	150	END	1612205191822	1612205196911
+REQUEST	239		localhost:8084 Redirect 2	1612205195904	1612205196914	OK	 
+REQUEST	217		localhost:8082 Redirect 2	1612205195886	1612205196914	OK	 
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 9 with intensity 1	239	END	1612205191826	1612205196914
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 9 with intensity 1	217	END	1612205191825	1612205196914
+REQUEST	35		localhost:8081 Redirect 2	1612205195881	1612205196915	OK	 
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 5 with intensity 1	35	END	1612205191785	1612205196916
+REQUEST	213		localhost:8084 Redirect 2	1612205195898	1612205196928	OK	 
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 8 with intensity 1	213	END	1612205191825	1612205196929
+REQUEST	56		localhost:8083 Redirect 2	1612205195903	1612205196930	OK	 
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 7 with intensity 1	56	END	1612205191819	1612205196931
+REQUEST	89		localhost:8080	1612205191820	1612205196931	OK	 
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 24 with intensity 1	89	END	1612205191820	1612205196931
+REQUEST	65		localhost:8083 Redirect 2	1612205195864	1612205196933	OK	 
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 4 with intensity 1	65	END	1612205191819	1612205196934
+REQUEST	246		localhost:8080 Redirect 2	1612205195907	1612205196935	OK	 
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 7 with intensity 1	246	END	1612205191826	1612205196935
+REQUEST	121		localhost:8081 Redirect 2	1612205195905	1612205196938	OK	 
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 10 with intensity 1	121	END	1612205191821	1612205196939
+REQUEST	120		localhost:8080 Redirect 2	1612205195893	1612205196950	OK	 
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 11 with intensity 1	120	END	1612205191821	1612205196951
+REQUEST	68		localhost:8083 Redirect 2	1612205195891	1612205196965	OK	 
+REQUEST	152		localhost:8082 Redirect 2	1612205195907	1612205196965	OK	 
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 11 with intensity 1	152	END	1612205191823	1612205196965
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 10 with intensity 1	68	END	1612205191819	1612205196965
+REQUEST	214		localhost:8083 Redirect 1	1612205194826	1612205196967	OK	 
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 12 with intensity 1	214	END	1612205191825	1612205196967
+REQUEST	156		localhost:8080 Redirect 2	1612205195966	1612205197001	OK	 
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 10 with intensity 1	156	END	1612205191823	1612205197002
+REQUEST	118		localhost:8080 Redirect 2	1612205195966	1612205197014	OK	 
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 9 with intensity 1	118	END	1612205191821	1612205197014
+REQUEST	154		localhost:8083	1612205191823	1612205197047	OK	 
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 23 with intensity 1	154	END	1612205191823	1612205197047
+REQUEST	82		localhost:8080	1612205191820	1612205197048	OK	 
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 24 with intensity 1	82	END	1612205191820	1612205197048
+REQUEST	55		localhost:8080 Redirect 1	1612205194767	1612205197059	OK	 
+REQUEST	28		localhost:8081	1612205191816	1612205197059	OK	 
+REQUEST	108		localhost:8080	1612205191821	1612205197070	OK	 
+REQUEST	145		localhost:8084 Redirect 2	1612205196054	1612205197088	OK	 
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 0 with intensity 1	145	END	1612205191822	1612205197088
+REQUEST	180		localhost:8080 Redirect 1	1612205196080	1612205197089	OK	 
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 16 with intensity 1	180	END	1612205191824	1612205197090
+REQUEST	115		localhost:8082 Redirect 1	1612205196068	1612205197105	OK	 
+REQUEST	48		localhost:8084 Redirect 1	1612205196092	1612205197108	OK	 
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 17 with intensity 1	48	END	1612205191799	1612205197108
+REQUEST	241		localhost:8080	1612205191826	1612205197122	OK	 
+REQUEST	12		localhost:8081	1612205191817	1612205197125	OK	 
+REQUEST	51		localhost:8083 Redirect 1	1612205196079	1612205197133	OK	 
+REQUEST	93		localhost:8081 Redirect 1	1612205196096	1612205197135	OK	 
+REQUEST	195		localhost:8082 Redirect 1	1612205196072	1612205197136	OK	 
+REQUEST	83		localhost:8080 Redirect 1	1612205196079	1612205197137	OK	 
+REQUEST	155		localhost:8083 Redirect 1	1612205196079	1612205197138	OK	 
+REQUEST	114		localhost:8081 Redirect 1	1612205196075	1612205197138	OK	 
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 15 with intensity 1	155	END	1612205191823	1612205197139
+REQUEST	7		localhost:8080	1612205191816	1612205197151	OK	 
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 23 with intensity 1	7	END	1612205191777	1612205197151
+REQUEST	46		localhost:8081	1612205191816	1612205197160	OK	 
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 20 with intensity 1	46	END	1612205191787	1612205197160
+REQUEST	104		localhost:8082	1612205191821	1612205197162	OK	 
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 24 with intensity 1	104	END	1612205191821	1612205197163
+REQUEST	218		localhost:8083	1612205191826	1612205197164	OK	 
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 21 with intensity 1	218	END	1612205191825	1612205197165
+REQUEST	71		localhost:8082	1612205191820	1612205197181	OK	 
+REQUEST	29		localhost:8081	1612205191816	1612205197185	OK	 
+REQUEST	80		localhost:8081	1612205191820	1612205197186	OK	 
+REQUEST	123		localhost:8081	1612205191822	1612205197186	OK	 
+REQUEST	122		localhost:8080	1612205191822	1612205197189	OK	 
+REQUEST	58		localhost:8080	1612205191819	1612205197190	OK	 
+REQUEST	219		localhost:8084	1612205191826	1612205197210	OK	 
+REQUEST	26		localhost:8081	1612205191816	1612205197221	OK	 
+REQUEST	73		localhost:8081	1612205191820	1612205197221	OK	 
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 23 with intensity 1	26	END	1612205191782	1612205197222
+REQUEST	107		localhost:8081	1612205191821	1612205197232	OK	 
+REQUEST	189		localhost:8083	1612205191824	1612205197232	OK	 
+REQUEST	90		localhost:8084	1612205191820	1612205197232	OK	 
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 24 with intensity 1	107	END	1612205191821	1612205197232
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 23 with intensity 1	189	END	1612205191824	1612205197232
+REQUEST	201		localhost:8081	1612205191825	1612205197233	OK	 
+REQUEST	105		localhost:8081	1612205191821	1612205197246	OK	 
+REQUEST	27		localhost:8081	1612205191816	1612205197251	OK	 
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 22 with intensity 1	27	END	1612205191782	1612205197251
+REQUEST	202		localhost:8084	1612205191825	1612205197253	OK	 
+REQUEST	125		localhost:8081	1612205191822	1612205197261	OK	 
+REQUEST	66		localhost:8081 Redirect 1	1612205196228	1612205197261	OK	 
+REQUEST	157		localhost:8081	1612205191823	1612205197263	OK	 
+REQUEST	61		localhost:8082	1612205191819	1612205197265	OK	 
+REQUEST	44		localhost:8081	1612205191816	1612205197266	OK	 
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 18 with intensity 1	44	END	1612205191787	1612205197266
+REQUEST	221		localhost:8084	1612205191826	1612205197267	OK	 
+REQUEST	207		localhost:8081 Redirect 1	1612205194767	1612205197302	OK	 
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 13 with intensity 1	207	END	1612205191825	1612205197303
+REQUEST	67		localhost:8084	1612205191819	1612205197314	OK	 
+REQUEST	117		localhost:8081 Redirect 1	1612205196293	1612205197339	OK	 
+REQUEST	97		localhost:8083 Redirect 1	1612205196293	1612205197343	OK	 
+REQUEST	248		localhost:8080 Redirect 1	1612205196293	1612205197345	OK	 
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 14 with intensity 1	248	END	1612205191826	1612205197346
+REQUEST	78		localhost:8084 Redirect 2	1612205196342	1612205197360	OK	 
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 6 with intensity 1	78	END	1612205191820	1612205197360
+REQUEST	101		localhost:8080 Redirect 1	1612205195207	1612205197442	OK	 
+REQUEST	242		localhost:8084 Redirect 2	1612205196416	1612205197446	OK	 
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 6 with intensity 1	242	END	1612205191826	1612205197446
+REQUEST	17		localhost:8084 Redirect 1	1612205195526	1612205197566	OK	 
+REQUEST	161		localhost:8083 Redirect 2	1612205196573	1612205197581	OK	 
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 11 with intensity 1	161	END	1612205191823	1612205197581
+REQUEST	141		localhost:8081 Redirect 2	1612205196566	1612205197583	OK	 
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 3 with intensity 1	141	END	1612205191822	1612205197583
+REQUEST	177		localhost:8084 Redirect 2	1612205196584	1612205197606	OK	 
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 5 with intensity 1	177	END	1612205191824	1612205197606
+REQUEST	209		localhost:8084 Redirect 2	1612205196583	1612205197610	OK	 
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 10 with intensity 1	209	END	1612205191825	1612205197611
+REQUEST	92		localhost:8080 Redirect 2	1612205196589	1612205197618	OK	 
+REQUEST	95		localhost:8084 Redirect 1	1612205196612	1612205197619	OK	 
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 4 with intensity 1	92	END	1612205191820	1612205197619
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 13 with intensity 1	95	END	1612205191820	1612205197619
+REQUEST	81		localhost:8080 Redirect 1	1612205196599	1612205197619	OK	 
+REQUEST	208		localhost:8084 Redirect 1	1612205196599	1612205197621	OK	 
+REQUEST	110		localhost:8083 Redirect 2	1612205196599	1612205197624	OK	 
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 0 with intensity 1	110	END	1612205191821	1612205197624
+REQUEST	210		localhost:8083	1612205191825	1612205197634	OK	 
+REQUEST	198		localhost:8081	1612205191825	1612205197634	OK	 
+REQUEST	212		localhost:8080	1612205191825	1612205197634	OK	 
+REQUEST	163		localhost:8081	1612205191823	1612205197636	OK	 
+REQUEST	216		localhost:8082	1612205191825	1612205197640	OK	 
+REQUEST	153		localhost:8081	1612205191823	1612205197640	OK	 
+REQUEST	32		localhost:8084	1612205191816	1612205197666	OK	 
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 23 with intensity 1	32	END	1612205191783	1612205197666
+REQUEST	138		localhost:8080	1612205191822	1612205197681	OK	 
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 19 with intensity 1	138	END	1612205191822	1612205197682
+REQUEST	9		localhost:8083 Redirect 1	1612205196660	1612205197688	OK	 
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 17 with intensity 1	9	END	1612205191778	1612205197688
+REQUEST	128		localhost:8080 Redirect 2	1612205196675	1612205197689	OK	 
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 3 with intensity 1	128	END	1612205191822	1612205197690
+REQUEST	206		localhost:8081 Redirect 1	1612205196660	1612205197694	OK	 
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 17 with intensity 1	206	END	1612205191825	1612205197695
+REQUEST	6		localhost:8080 Redirect 1	1612205196659	1612205197696	OK	 
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 13 with intensity 1	6	END	1612205191777	1612205197697
+REQUEST	134		localhost:8080	1612205191822	1612205197698	OK	 
+REQUEST	59		localhost:8081	1612205191819	1612205197698	OK	 
+REQUEST	50		localhost:8083	1612205191819	1612205197698	OK	 
+REQUEST	91		localhost:8081	1612205191820	1612205197698	OK	 
+REQUEST	240		localhost:8080	1612205191826	1612205197698	OK	 
+REQUEST	112		localhost:8083 Redirect 1	1612205196661	1612205197714	OK	 
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 13 with intensity 1	112	END	1612205191821	1612205197714
+REQUEST	169		localhost:8084 Redirect 1	1612205196666	1612205197719	OK	 
+REQUEST	158		localhost:8084 Redirect 1	1612205196668	1612205197719	OK	 
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 14 with intensity 1	158	END	1612205191823	1612205197720
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 12 with intensity 1	169	END	1612205191823	1612205197720
+REQUEST	127		localhost:8080 Redirect 1	1612205196660	1612205197726	OK	 
+REQUEST	233		localhost:8084 Redirect 1	1612205196663	1612205197731	OK	 
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 15 with intensity 1	233	END	1612205191826	1612205197731
+REQUEST	130		localhost:8081 Redirect 2	1612205196756	1612205197764	OK	 
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 1 with intensity 1	130	END	1612205191822	1612205197764
+REQUEST	178		localhost:8083 Redirect 1	1612205196663	1612205197790	OK	 
+REQUEST	204		localhost:8080 Redirect 2	1612205196784	1612205197791	OK	 
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 1 with intensity 1	204	END	1612205191825	1612205197791
+REQUEST	135		localhost:8083 Redirect 1	1612205196665	1612205197792	OK	 
+REQUEST	232		localhost:8084 Redirect 1	1612205196660	1612205197801	OK	 
+REQUEST	74		localhost:8080 Redirect 2	1612205196798	1612205197819	OK	 
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 11 with intensity 1	74	END	1612205191819	1612205197820
+REQUEST	144		localhost:8084 Redirect 1	1612205195530	1612205197826	OK	 
+REQUEST	30		localhost:8081 Redirect 1	1612205196668	1612205197826	OK	 
+REQUEST	22		localhost:8081 Redirect 1	1612205195525	1612205197826	OK	 
+REQUEST	41		localhost:8080 Redirect 1	1612205196660	1612205197834	OK	 
+REQUEST	236		localhost:8082 Redirect 2	1612205196797	1612205197835	OK	 
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 1 with intensity 1	236	END	1612205191826	1612205197835
+REQUEST	40		localhost:8081 Redirect 1	1612205195719	1612205197838	OK	 
+REQUEST	168		localhost:8083 Redirect 2	1612205196798	1612205197839	OK	 
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 0 with intensity 1	168	END	1612205191823	1612205197839
+REQUEST	72		localhost:8080 Redirect 1	1612205196665	1612205197848	OK	 
+REQUEST	174		localhost:8081 Redirect 1	1612205196659	1612205197848	OK	 
+REQUEST	166		localhost:8081 Redirect 1	1612205196660	1612205197849	OK	 
+REQUEST	234		localhost:8084 Redirect 1	1612205196668	1612205197850	OK	 
+REQUEST	250		localhost:8083 Redirect 2	1612205196839	1612205197850	OK	 
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 10 with intensity 1	250	END	1612205191826	1612205197851
+REQUEST	38		localhost:8083 Redirect 1	1612205195717	1612205197854	OK	 
+REQUEST	227		localhost:8084 Redirect 1	1612205196659	1612205197857	OK	 
+REQUEST	231		localhost:8084 Redirect 1	1612205196660	1612205197859	OK	 
+REQUEST	151		localhost:8083 Redirect 1	1612205196228	1612205197865	OK	 
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 16 with intensity 1	151	END	1612205191822	1612205197866
+REQUEST	103		localhost:8084 Redirect 2	1612205196829	1612205197884	OK	 
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 1 with intensity 1	103	END	1612205191820	1612205197884
+REQUEST	54		localhost:8081 Redirect 2	1612205196849	1612205197886	OK	 
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 6 with intensity 1	54	END	1612205191818	1612205197887
+REQUEST	84		localhost:8081 Redirect 2	1612205196849	1612205197888	OK	 
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 3 with intensity 1	84	END	1612205191820	1612205197888
+REQUEST	79		localhost:8084 Redirect 2	1612205196851	1612205197892	OK	 
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 4 with intensity 1	79	END	1612205191820	1612205197892
+REQUEST	36		localhost:8081 Redirect 2	1612205196827	1612205197894	OK	 
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 4 with intensity 1	36	END	1612205191785	1612205197894
+REQUEST	186		localhost:8081 Redirect 2	1612205196827	1612205197907	OK	 
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 4 with intensity 1	186	END	1612205191824	1612205197907
+REQUEST	88		localhost:8084 Redirect 2	1612205195807	1612205197941	OK	 
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 9 with intensity 1	88	END	1612205191820	1612205197942
+REQUEST	55		localhost:8080 Redirect 2	1612205197059	1612205198065	OK	 
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 5 with intensity 1	55	END	1612205191819	1612205198065
+REQUEST	28		localhost:8081 Redirect 1	1612205197059	1612205198065	OK	 
+REQUEST	237		localhost:8081 Redirect 1	1612205194773	1612205198081	OK	 
+REQUEST	108		localhost:8080 Redirect 1	1612205197071	1612205198086	OK	 
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 12 with intensity 1	108	END	1612205191821	1612205198087
+REQUEST	18		localhost:8081	1612205191817	1612205198087	OK	 
+REQUEST	115		localhost:8082 Redirect 2	1612205197106	1612205198115	OK	 
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 10 with intensity 1	115	END	1612205191821	1612205198116
+REQUEST	241		localhost:8080 Redirect 1	1612205197123	1612205198131	OK	 
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 16 with intensity 1	241	END	1612205191826	1612205198132
+REQUEST	170		localhost:8081	1612205191824	1612205198133	OK	 
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 18 with intensity 1	170	END	1612205191823	1612205198134
+REQUEST	116		localhost:8083	1612205191821	1612205198137	OK	 
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 20 with intensity 1	116	END	1612205191821	1612205198137
+REQUEST	12		localhost:8081 Redirect 1	1612205197125	1612205198139	OK	 
+REQUEST	33		localhost:8084	1612205191816	1612205198142	OK	 
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 20 with intensity 1	33	END	1612205191783	1612205198142
+REQUEST	2		localhost:8080	1612205191816	1612205198144	OK	 
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 20 with intensity 1	2	END	1612205191776	1612205198144
+REQUEST	137		localhost:8083	1612205191822	1612205198145	OK	 
+REQUEST	99		localhost:8082 Redirect 1	1612205196078	1612205198146	OK	 
+REQUEST	114		localhost:8081 Redirect 2	1612205197139	1612205198155	OK	 
+REQUEST	195		localhost:8082 Redirect 2	1612205197136	1612205198155	OK	 
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 7 with intensity 1	114	END	1612205191821	1612205198155
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 8 with intensity 1	195	END	1612205191824	1612205198155
+REQUEST	83		localhost:8080 Redirect 2	1612205197137	1612205198157	OK	 
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 8 with intensity 1	83	END	1612205191820	1612205198157
+REQUEST	51		localhost:8083 Redirect 2	1612205197133	1612205198158	OK	 
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 4 with intensity 1	51	END	1612205191818	1612205198158
+REQUEST	148		localhost:8082 Redirect 1	1612205196057	1612205198189	OK	 
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 16 with intensity 1	148	END	1612205191822	1612205198189
+REQUEST	94		localhost:8083	1612205191820	1612205198209	OK	 
+REQUEST	71		localhost:8082 Redirect 1	1612205197181	1612205198230	OK	 
+REQUEST	219		localhost:8084 Redirect 1	1612205197210	1612205198232	OK	 
+REQUEST	73		localhost:8081 Redirect 1	1612205197222	1612205198239	OK	 
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 16 with intensity 1	73	END	1612205191819	1612205198239
+REQUEST	58		localhost:8080 Redirect 1	1612205197191	1612205198249	OK	 
+REQUEST	29		localhost:8081 Redirect 1	1612205197185	1612205198250	OK	 
+REQUEST	80		localhost:8081 Redirect 1	1612205197186	1612205198256	OK	 
+REQUEST	105		localhost:8081 Redirect 1	1612205197246	1612205198261	OK	 
+REQUEST	123		localhost:8081 Redirect 1	1612205197186	1612205198262	OK	 
+REQUEST	201		localhost:8081 Redirect 1	1612205197233	1612205198262	OK	 
+REQUEST	125		localhost:8081 Redirect 1	1612205197262	1612205198284	OK	 
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 16 with intensity 1	125	END	1612205191821	1612205198285
+REQUEST	61		localhost:8082 Redirect 1	1612205197265	1612205198296	OK	 
+REQUEST	66		localhost:8081 Redirect 2	1612205197262	1612205198297	OK	 
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 4 with intensity 1	66	END	1612205191819	1612205198297
+REQUEST	75		localhost:8080 Redirect 1	1612205196228	1612205198299	OK	 
+REQUEST	157		localhost:8081 Redirect 1	1612205197263	1612205198301	OK	 
+REQUEST	221		localhost:8084 Redirect 1	1612205197267	1612205198303	OK	 
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 16 with intensity 1	221	END	1612205191825	1612205198303
+REQUEST	67		localhost:8084 Redirect 1	1612205197314	1612205198322	OK	 
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 13 with intensity 1	67	END	1612205191819	1612205198323
+REQUEST	97		localhost:8083 Redirect 2	1612205197343	1612205198357	OK	 
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 7 with intensity 1	97	END	1612205191820	1612205198357
+REQUEST	211		localhost:8082 Redirect 1	1612205196080	1612205198401	OK	 
+REQUEST	101		localhost:8080 Redirect 2	1612205197442	1612205198449	OK	 
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 5 with intensity 1	101	END	1612205191820	1612205198450
+REQUEST	25		localhost:8081 Redirect 2	1612205195978	1612205198513	OK	 
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 9 with intensity 1	25	END	1612205191782	1612205198513
+REQUEST	8		localhost:8081 Redirect 2	1612205196414	1612205198572	OK	 
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 2 with intensity 1	8	END	1612205191777	1612205198573
+REQUEST	17		localhost:8084 Redirect 2	1612205197566	1612205198576	OK	 
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 3 with intensity 1	17	END	1612205191780	1612205198577
+REQUEST	69		localhost:8081 Redirect 2	1612205196053	1612205198577	OK	 
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 11 with intensity 1	69	END	1612205191819	1612205198577
+REQUEST	249		localhost:8084 Redirect 2	1612205195830	1612205198594	OK	 
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 2 with intensity 1	249	END	1612205191826	1612205198594
+REQUEST	212		localhost:8080 Redirect 1	1612205197635	1612205198654	OK	 
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 17 with intensity 1	212	END	1612205191825	1612205198655
+REQUEST	153		localhost:8081 Redirect 1	1612205197640	1612205198666	OK	 
+REQUEST	216		localhost:8082 Redirect 1	1612205197640	1612205198668	OK	 
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 15 with intensity 1	216	END	1612205191825	1612205198668
+REQUEST	81		localhost:8080 Redirect 2	1612205197619	1612205198675	OK	 
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 1 with intensity 1	81	END	1612205191820	1612205198675
+REQUEST	208		localhost:8084 Redirect 2	1612205197622	1612205198677	OK	 
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 2 with intensity 1	208	END	1612205191825	1612205198677
+REQUEST	163		localhost:8081 Redirect 1	1612205197636	1612205198680	OK	 
+REQUEST	198		localhost:8081 Redirect 1	1612205197634	1612205198682	OK	 
+REQUEST	131		localhost:8084	1612205191822	1612205198697	OK	 
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 18 with intensity 1	131	END	1612205191822	1612205198697
+REQUEST	91		localhost:8081 Redirect 1	1612205197699	1612205198707	OK	 
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 14 with intensity 1	91	END	1612205191820	1612205198707
+REQUEST	50		localhost:8083 Redirect 1	1612205197698	1612205198715	OK	 
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 12 with intensity 1	50	END	1612205191818	1612205198716
+REQUEST	59		localhost:8081 Redirect 1	1612205197698	1612205198719	OK	 
+REQUEST	134		localhost:8080 Redirect 1	1612205197698	1612205198719	OK	 
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 15 with intensity 1	59	END	1612205191819	1612205198719
+REQUEST	240		localhost:8080 Redirect 1	1612205197699	1612205198720	OK	 
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 14 with intensity 1	240	END	1612205191826	1612205198720
+REQUEST	127		localhost:8080 Redirect 2	1612205197726	1612205198736	OK	 
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 0 with intensity 1	127	END	1612205191821	1612205198736
+REQUEST	135		localhost:8083 Redirect 2	1612205197792	1612205198811	OK	 
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 8 with intensity 1	135	END	1612205191822	1612205198811
+REQUEST	178		localhost:8083 Redirect 2	1612205197790	1612205198813	OK	 
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 8 with intensity 1	178	END	1612205191824	1612205198813
+REQUEST	22		localhost:8081 Redirect 2	1612205197826	1612205198832	OK	 
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 8 with intensity 1	22	END	1612205191781	1612205198832
+REQUEST	30		localhost:8081 Redirect 2	1612205197826	1612205198839	OK	 
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 0 with intensity 1	30	END	1612205191783	1612205198839
+REQUEST	174		localhost:8081 Redirect 2	1612205197849	1612205198857	OK	 
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 9 with intensity 1	174	END	1612205191823	1612205198857
+REQUEST	231		localhost:8084 Redirect 2	1612205197859	1612205198865	OK	 
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 10 with intensity 1	231	END	1612205191826	1612205198866
+REQUEST	166		localhost:8081 Redirect 2	1612205197849	1612205198869	OK	 
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 8 with intensity 1	166	END	1612205191823	1612205198869
+REQUEST	72		localhost:8080 Redirect 2	1612205197848	1612205198873	OK	 
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 6 with intensity 1	72	END	1612205191819	1612205198874
+REQUEST	227		localhost:8084 Redirect 2	1612205197857	1612205198876	OK	 
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 11 with intensity 1	227	END	1612205191826	1612205198877
+REQUEST	40		localhost:8081 Redirect 2	1612205197838	1612205198914	OK	 
+REQUEST	38		localhost:8083 Redirect 2	1612205197854	1612205198915	OK	 
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 0 with intensity 1	40	END	1612205191786	1612205198915
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 1 with intensity 1	38	END	1612205191785	1612205198915
+REQUEST	234		localhost:8084 Redirect 2	1612205197850	1612205198924	OK	 
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 1 with intensity 1	234	END	1612205191826	1612205198924
+REQUEST	28		localhost:8081 Redirect 2	1612205198065	1612205199081	OK	 
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 2 with intensity 1	28	END	1612205191782	1612205199082
+REQUEST	237		localhost:8081 Redirect 2	1612205198082	1612205199089	OK	 
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 0 with intensity 1	237	END	1612205191826	1612205199089
+REQUEST	18		localhost:8081 Redirect 1	1612205198088	1612205199103	OK	 
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 14 with intensity 1	18	END	1612205191781	1612205199103
+REQUEST	200		localhost:8083 Redirect 1	1612205196660	1612205199104	OK	 
+REQUEST	76		localhost:8083	1612205191820	1612205199105	OK	 
+REQUEST	140		localhost:8080	1612205191822	1612205199110	OK	 
+REQUEST	12		localhost:8081 Redirect 2	1612205198139	1612205199146	OK	 
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 1 with intensity 1	12	END	1612205191778	1612205199146
+REQUEST	137		localhost:8083 Redirect 1	1612205198145	1612205199152	OK	 
+REQUEST	99		localhost:8082 Redirect 2	1612205198146	1612205199161	OK	 
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 7 with intensity 1	99	END	1612205191820	1612205199161
+REQUEST	179		localhost:8080	1612205191824	1612205199168	OK	 
+REQUEST	94		localhost:8083 Redirect 1	1612205198210	1612205199227	OK	 
+REQUEST	219		localhost:8084 Redirect 2	1612205198233	1612205199239	OK	 
+REQUEST	71		localhost:8082 Redirect 2	1612205198230	1612205199239	OK	 
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 5 with intensity 1	219	END	1612205191825	1612205199239
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 2 with intensity 1	71	END	1612205191819	1612205199239
+REQUEST	58		localhost:8080 Redirect 2	1612205198249	1612205199255	OK	 
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 2 with intensity 1	58	END	1612205191819	1612205199255
+REQUEST	29		localhost:8081 Redirect 2	1612205198250	1612205199256	OK	 
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 11 with intensity 1	29	END	1612205191782	1612205199256
+REQUEST	80		localhost:8081 Redirect 2	1612205198256	1612205199260	OK	 
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 2 with intensity 1	80	END	1612205191820	1612205199260
+REQUEST	123		localhost:8081 Redirect 2	1612205198262	1612205199266	OK	 
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 6 with intensity 1	123	END	1612205191821	1612205199267
+REQUEST	201		localhost:8081 Redirect 2	1612205198262	1612205199268	OK	 
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 1 with intensity 1	201	END	1612205191825	1612205199269
+REQUEST	93		localhost:8081 Redirect 2	1612205197136	1612205199285	OK	 
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 8 with intensity 1	93	END	1612205191820	1612205199285
+REQUEST	157		localhost:8081 Redirect 2	1612205198301	1612205199312	OK	 
+REQUEST	75		localhost:8080 Redirect 2	1612205198300	1612205199312	OK	 
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 7 with intensity 1	157	END	1612205191823	1612205199312
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 2 with intensity 1	75	END	1612205191820	1612205199312
+REQUEST	61		localhost:8082 Redirect 2	1612205198296	1612205199317	OK	 
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 6 with intensity 1	61	END	1612205191819	1612205199317
+REQUEST	90		localhost:8084 Redirect 1	1612205197232	1612205199372	OK	 
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 17 with intensity 1	90	END	1612205191820	1612205199372
+REQUEST	202		localhost:8084 Redirect 1	1612205197253	1612205199388	OK	 
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 15 with intensity 1	202	END	1612205191825	1612205199388
+REQUEST	211		localhost:8082 Redirect 2	1612205198402	1612205199407	OK	 
+USER	Client 5 attacks server 2 at address localhost:8082 looking for resource 3 with intensity 1	211	END	1612205191825	1612205199408
+REQUEST	63		localhost:8081 Redirect 1	1612205196659	1612205199424	OK	 
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 12 with intensity 1	63	END	1612205191819	1612205199424
+REQUEST	243		localhost:8084	1612205191827	1612205199476	OK	 
+REQUEST	117		localhost:8081 Redirect 2	1612205197340	1612205199476	OK	 
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 20 with intensity 1	243	END	1612205191826	1612205199477
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 9 with intensity 1	117	END	1612205191821	1612205199477
+REQUEST	122		localhost:8080 Redirect 1	1612205197190	1612205199488	OK	 
+REQUEST	167		localhost:8083 Redirect 2	1612205196839	1612205199616	OK	 
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 5 with intensity 1	167	END	1612205191823	1612205199616
+REQUEST	153		localhost:8081 Redirect 2	1612205198666	1612205199681	OK	 
+USER	Client 2 attacks server 1 at address localhost:8081 looking for resource 10 with intensity 1	153	END	1612205191823	1612205199681
+REQUEST	163		localhost:8081 Redirect 2	1612205198680	1612205199689	OK	 
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 5 with intensity 1	163	END	1612205191823	1612205199690
+REQUEST	210		localhost:8083 Redirect 1	1612205197634	1612205199691	OK	 
+REQUEST	134		localhost:8080 Redirect 2	1612205198719	1612205199728	OK	 
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 7 with intensity 1	134	END	1612205191822	1612205199728
+REQUEST	126		localhost:8084	1612205191822	1612205199873	OK	 
+REQUEST	106		localhost:8083	1612205191821	1612205199873	OK	 
+REQUEST	244		localhost:8083	1612205191827	1612205199873	OK	 
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 24 with intensity 1	106	END	1612205191821	1612205199873
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 19 with intensity 1	126	END	1612205191821	1612205199873
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 21 with intensity 1	244	END	1612205191826	1612205199873
+REQUEST	232		localhost:8084 Redirect 2	1612205197801	1612205199941	OK	 
+USER	Client 8 attacks server 4 at address localhost:8084 looking for resource 3 with intensity 1	232	END	1612205191826	1612205199941
+REQUEST	203		localhost:8081 Redirect 2	1612205195872	1612205199987	OK	 
+USER	Client 3 attacks server 1 at address localhost:8081 looking for resource 3 with intensity 1	203	END	1612205191825	1612205199988
+REQUEST	39		localhost:8080	1612205191818	1612205200058	OK	 
+REQUEST	200		localhost:8083 Redirect 2	1612205199104	1612205200110	OK	 
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 3 with intensity 1	200	END	1612205191825	1612205200110
+REQUEST	76		localhost:8083 Redirect 1	1612205199105	1612205200114	OK	 
+REQUEST	140		localhost:8080 Redirect 1	1612205199110	1612205200120	OK	 
+REQUEST	137		localhost:8083 Redirect 2	1612205199152	1612205200161	OK	 
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 1 with intensity 1	137	END	1612205191822	1612205200161
+REQUEST	179		localhost:8080 Redirect 1	1612205199168	1612205200178	OK	 
+REQUEST	94		localhost:8083 Redirect 2	1612205199227	1612205200235	OK	 
+USER	Client 6 attacks server 3 at address localhost:8083 looking for resource 6 with intensity 1	94	END	1612205191820	1612205200236
+REQUEST	41		localhost:8080 Redirect 2	1612205197834	1612205200367	OK	 
+USER	Client 1 attacks server 0 at address localhost:8080 looking for resource 10 with intensity 1	41	END	1612205191786	1612205200368
+REQUEST	144		localhost:8084 Redirect 2	1612205197826	1612205200379	OK	 
+USER	Client 9 attacks server 4 at address localhost:8084 looking for resource 0 with intensity 1	144	END	1612205191822	1612205200379
+REQUEST	210		localhost:8083 Redirect 2	1612205199691	1612205200699	OK	 
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 9 with intensity 1	210	END	1612205191825	1612205200699
+REQUEST	105		localhost:8081 Redirect 2	1612205198261	1612205200815	OK	 
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 5 with intensity 1	105	END	1612205191821	1612205200815
+REQUEST	198		localhost:8081 Redirect 2	1612205198682	1612205200819	OK	 
+USER	Client 4 attacks server 1 at address localhost:8081 looking for resource 11 with intensity 1	198	END	1612205191824	1612205200820
+REQUEST	39		localhost:8080 Redirect 1	1612205200058	1612205201068	OK	 
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 15 with intensity 1	39	END	1612205191786	1612205201069
+REQUEST	140		localhost:8080 Redirect 2	1612205200121	1612205201132	OK	 
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 9 with intensity 1	140	END	1612205191822	1612205201132
+REQUEST	179		localhost:8080 Redirect 2	1612205200179	1612205201185	OK	 
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 8 with intensity 1	179	END	1612205191824	1612205201186
+REQUEST	122		localhost:8080 Redirect 2	1612205199488	1612205201627	OK	 
+USER	Client 0 attacks server 0 at address localhost:8080 looking for resource 6 with intensity 1	122	END	1612205191821	1612205201628
+REQUEST	76		localhost:8083 Redirect 2	1612205200114	1612205202878	OK	 
+USER	Client 7 attacks server 3 at address localhost:8083 looking for resource 2 with intensity 1	76	END	1612205191820	1612205202878

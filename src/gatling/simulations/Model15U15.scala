@@ -4,8 +4,8 @@ import io.gatling.http.Predef._
 
 import scala.collection.mutable.ListBuffer
 
-class Model1 extends Simulation {
-  
+class Model15U15 extends Simulation {
+
     // indeks arraya == client, x(0)(0) = intensywnosc dla klienta o idku 0 dla resource-a o idku 0
     // te arraye ewentualnie mozna latwo przeksztalcic na feedery Map(indeks, Array)
     val clientsAndResourceIntensity = Array(
