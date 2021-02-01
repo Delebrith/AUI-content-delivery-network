@@ -62,7 +62,7 @@ EXPOSE ${PORT} 5${PORT}
 
 COPY ./aui-0.0.25-Cookies.jar /aui.jar 
 
-COPY config.txt /root/aui/config.txt
+COPY ${CONFIG_FILE} /root/aui/config.txt
 
 ENV JAVA_TOOL_OPTIONS -agentlib:jdwp=transport=dt_socket,address=*:5${PORT},server=y,suspend=n
 
