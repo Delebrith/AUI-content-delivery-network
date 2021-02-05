@@ -52,5 +52,24 @@ Klienci sieci CDN zasymulowani zostaną poprzez scenariusz biblioteki Gatling z 
 określanymi przez eksperyment.
 
 ## Testowane modele
+W celach testowych zostały wykorzystane 4 modele.
+
+10u25 - 10 zasobów, uniwersalna dystrybucja, 25 żądań na sekundę  
+25u25 - 25 zasobów, uniwersalna dystrybucja, 25 żądań na sekundę  
+25p25 - 25 zasobów, dystrybucja pareto, 25 żądań na sekundę  
+25phigh - 10 zasobów, dystrybucja pareto, 31 żądań na sekundę  
+
+Dla każdego modelu zostały przeprowadzone eksperymenty z wykorzystaniem:  
+1. wyliczonej funkcji kosztu cost
+2. wyliczonej funkcji kosztu revenue
+3. całkowicie losowej dystrybucji treści w systemie
+
+Funkcja cost:  
+
+Funkcja revenue:  
+
+Do przeprowadzenia testów zostaly napisane skrypty inicjalizujące kontenery dockerowe z zadanym opóźnieniem i umieszczające na kontenerach treści, testy zostały napisane
+z użyciem narzędzia gatling.
 
 ## Wyniki eksperymentów
+
